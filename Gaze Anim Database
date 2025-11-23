@@ -57,7 +57,8 @@ return {
         ["No Boundaries (Walmart)"] = {"18747067405", "18747063918"},
         ["Zombie"] = {"616158929", "616160636"},
         ["(UGC) Zombie"] = {"77672872857991", "77672872857991"},
-        ["(UGC) TailWag"] = {"129026910898635", "129026910898635"}
+        ["(UGC) TailWag"] = {"129026910898635", "129026910898635"},
+        ["Wicked (Dancing Through Life)"] = {"82682578794949", "82682578794949"}
     },
     ["Walk"] = {
         ["Gojo"] = "95643163365384",
@@ -103,7 +104,8 @@ return {
         ["Werewolf"] = "1083178339",
         ["Wicked (Popular)"] = "92072849924640",
         ["No Boundaries (Walmart)"] = "18747074203",
-        ["Zombie"] = "616168032"
+        ["Zombie"] = "616168032",
+        ["Wicked (Dancing Through Life)"] = "94133616443608"
     },
     ["Run"] = {
         ["2016 Animation (mm2)"] = "387947975",
@@ -149,7 +151,8 @@ return {
         ["Werewolf"] = "10921336997",
         ["Wicked (Popular)"] = "72301599441680",
         ["No Boundaries (Walmart)"] = "18747070484",
-        ["Zombie"] = "616163682"
+        ["Zombie"] = "616163682",
+        ["Wicked (Dancing Through Life)"] = "79789194522561"
     },
     ["Jump"] = {
         ["Astronaut"] = "891627522",
@@ -187,7 +190,8 @@ return {
         ["Werewolf"] = "1083218792",
         ["Wicked (Popular)"] = "104325245285198",
         ["No Boundaries (Walmart)"] = "18747069148",
-        ["Zombie"] = "616161997"
+        ["Zombie"] = "616161997",
+        ["Wicked (Dancing Through Life)"] = "111157411630082"
     },
     ["Fall"] = {
         ["Astronaut"] = "891617961",
@@ -223,7 +227,8 @@ return {
         ["Werewolf"] = "1083189019",
         ["Wicked (Popular)"] = "121152442762481",
         ["No Boundaries (Walmart)"] = "18747062535",
-        ["Zombie"] = "616157476"
+        ["Zombie"] = "616157476",
+        ["Wicked (Dancing Through Life)"] = "124742764102674"
     },
     ["SwimIdle"] = {
         ["Astronaut"] = "891663592",
@@ -256,7 +261,8 @@ return {
         ["Vampire"] = "10921325443",
         ["Werewolf"] = "10921341319",
         ["Wicked (Popular)"] = "113199415118199",
-        ["No Boundaries (Walmart)"] = "18747071682"
+        ["No Boundaries (Walmart)"] = "18747071682",
+        ["Wicked (Dancing Through Life)"] = "135050138303161"
     },
     ["Swim"] = {
         ["Astronaut"] = "891663592",
@@ -288,7 +294,8 @@ return {
         ["Werewolf"] = "10921340419",
         ["Wicked (Popular)"] = "99384245425157",
         ["No Boundaries (Walmart)"] = "18747073181",
-        ["Zombie"] = "616165109"
+        ["Zombie"] = "616165109",
+        ["Wicked (Dancing Through Life)"] = "135050138303161"
     },
     ["Climb"] = {
         ["Astronaut"] = "10921032124",
@@ -323,6 +330,7 @@ return {
         ["WereWolf"] = "10921329322",
         ["Wicked (Popular)"] = "131326830509784",
         ["No Boundaries (Walmart)"] = "18747060903",
-        ["Zombie"] = "616156119"
+        ["Zombie"] = "616156119",
+        ["Wicked (Dancing Through Life)"] = "123509187015792"
     }
 }
